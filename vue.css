@@ -21,10 +21,17 @@ body {
     overflow-x: hidden;
 }
 
-#write {
-    max-width: 860px;
+/* #write {
+    max-width: 914px;
     margin: 0 auto;
     padding: 20px 30px 100px;
+} */
+
+#write {
+    /* max-width: 914px; */
+    margin: 0 auto;
+    padding: 1rem 4rem;
+    padding-bottom: 100px;
 }
 
 #write p {
